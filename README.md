@@ -32,5 +32,5 @@ Computer Science Engineering
 **College	:**	ADHIPARASAKTHI ENGINEERING COLLEGE
 
 ## Project Design & Planning
-- [Ideation Phase]https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
