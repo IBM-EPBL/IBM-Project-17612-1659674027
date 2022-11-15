@@ -36,8 +36,10 @@ Computer Science Engineering
   -Brainstrom
   ,Empathy map
   ,Literature Survey
-  ,problem statement
+  ,Problem statement
 - [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-  -
+  -Problem solution 
+  ,Proposed solution
+  ,Solution Architecture
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Development%20Phase)
 
