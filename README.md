@@ -38,5 +38,5 @@ Computer Science Engineering
   - Problem Solution ,Proposed Solution ,Solution Architecture
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Development%20Phase)
   - Customer Journey Map ,Data Flow Diagrams ,Functional Requirements ,Technology Architecture
-- [Project Planning Phase]
+- [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
   - Milestone and Activity list ,Sprint Delivery Plan
