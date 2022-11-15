@@ -33,13 +33,13 @@ Computer Science Engineering
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-  -Brainstrom
+  - Brainstrom
   ,Empathy map
   ,Literature Survey
   ,Problem statement
 - [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-  -Problem solution 
+  - Problem solution 
   ,Proposed solution
   ,Solution Architecture
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-17612-1659674027/tree/main/Project%20Development%20Phase)
-
+  -Sprint
