@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="..\static\CSS\register.css">
+  <title>Login</title>
+</head>
+<body>
+  <div class="login-container">
+    <div class="login-page">
+        <form class="form" action="login" method="post">
+          <h2>Login</h2>
+          <div></div>
+          <input
+            type="email"
+            placeholder="Email"
+            class="username"
+            name="email"
+          />
+          <input
+            type="password"
+            placeholder="password"
+            class="password"
+            name="password"
+          />
+          <button type="submit" onclick="myFunction()">login</button>
+          <p class="message">Not registered? <a href="sign_up.html">Create an account</a></p>
+        </div>
+      </div>
+    </div>
+</body>
+<script>
+function myFunction() {
+  window.open("file://C:/Users/varshavarthini/.vscode/IBMProject/template/base.html","mywindow");
+  }
+</script>
+</html>
+
